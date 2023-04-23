@@ -13,7 +13,7 @@
 .title img {
   width: 100%;
 }
-.detais {
+.title .detais {
   font-family: fantasy, cursive;
 }
 
@@ -102,7 +102,7 @@ li {
   justify-content: space-between;
   align-items: center;
 }
-li > * {
+* {
   vertical-align: middle;
 }
 
@@ -134,7 +134,7 @@ input[type="text"] {
 }
 
 /* Edit Task */
-input[type=text] {
+ul li input[type=text] {
   display: none
 }
 
