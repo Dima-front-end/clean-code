@@ -10,7 +10,7 @@
   display: block;
   text-align: right;
 }
-.title img {
+.title-image {
   width: 100%;
 }
 .detais {
@@ -39,7 +39,7 @@
 }
 ul {
   margin: 0;
-  padding: 0px;
+  padding: 0;
 }
 li,
 h3 {
